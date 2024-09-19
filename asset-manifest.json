@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/react-apirest/static/js/main.f806a567.js",
+    "main.css": "/react-apirest/static/css/main.f029a054.css",
+    "main.js": "/react-apirest/static/js/main.ee2512c4.js",
     "index.html": "/react-apirest/index.html",
-    "main.f806a567.js.map": "/react-apirest/static/js/main.f806a567.js.map"
+    "main.f029a054.css.map": "/react-apirest/static/css/main.f029a054.css.map",
+    "main.ee2512c4.js.map": "/react-apirest/static/js/main.ee2512c4.js.map"
   },
   "entrypoints": [
-    "static/js/main.f806a567.js"
+    "static/css/main.f029a054.css",
+    "static/js/main.ee2512c4.js"
   ]
 }
