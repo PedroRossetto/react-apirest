@@ -30,5 +30,6 @@ module.exports = {
     'react/react-in-jsx-scope': 'off',
     'import/no-extraneous-dependencies': 'off',
     'nuxt/no-cjs-in-config': 'off',
+    'default-param-last': 'off',
   },
 };
