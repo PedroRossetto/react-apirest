@@ -7,7 +7,7 @@ export default function Login() {
   toast.success('Bem vindo ao site em produção ❤️❤️', { toastId: 'toast1' });
   return (
     <Container>
-      <Title isRed={false}>Login</Title>
+      <Title>Login</Title>
       <Paragrafo>Bem vindo à página de login!</Paragrafo>
       <button type="button">Enviar</button>
     </Container>
